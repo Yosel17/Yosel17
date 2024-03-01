@@ -1,6 +1,21 @@
-<h1 align="center">Hola 👋, soy Yosel Alvuzures</h1>
-<h3 align="center">Desarrollador navito de android</h3>
+<h1 align="center">Hola 👋, soy Yosel Alvizures</h1>
+<h3 align="center">¡Bienvenido/a a mi perfil de GitHub! Soy un desarrollador navito de android, apasionado por Android. Aquí encontrarás una variedad de proyectos que reflejan mis habilidades y experiencias.</h3>
 
+## Acerca de mí
+- 🎓 [Gradua]
+- 💼 Actualmente trabajo como [desarrollar aplicaciones administrativas para empresas que lo requierantés estudiando]
+- 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías.
+
+- ## Mis habilidades
+- 💻 [Desarollo Android nativo, Desarrollo mobile Multiplatform]
+- 🚀 [Autodidacta]
+
+  ## Proyectos destacados
+  Aquí algunos de mis proyectos más destacados.
+
+  ## 1. Aplicación de Reserva de Almuerzos Empresariales[ComedorGS](https://play.google.com/store/apps/details?id=app.pueblete.palencia&pcampaignid=web_share)
+  Esta aplicación está diseñada para simplificar el proceso de reserva de almuerzos para los empleados de una empresa, aplicando automáticamente los descuentos     correspondientes a través de la nómina del empleado. Con una interfaz intuitiva, los trabajadores pueden programar sus almuerzos de manera conveniente, aprovechando los   beneficios ofrecidos por la empresa.
+  
 - 🔭 Actualmente estoy trabajando en [EducativaIA](https://play.google.com/store/apps/details?id=app.pueblete.palencia&pcampaignid=web_share)
 
 - 🌱 actualmente estoy aprendiendo **flutter, Kotlin multiplatamfor**
