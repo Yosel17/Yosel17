@@ -1,52 +1,94 @@
-<h1 align="center">Hola 👋, soy Yosel Alvizures</h1>
-<h3 align="center">¡Bienvenido/a a mi perfil de GitHub! Soy un desarrollador navito de android, apasionado por Android. Aquí encontrarás una variedad de proyectos que reflejan mis habilidades y experiencias.</h3>
+<h1 align="center">👋 Hola, soy Yosel Alvizures</h1>
+<h3 align="center">Desarrollador Mobile | Multiplataforma | Flutter | kotlin multiplatform | compose multiplatform</h3>
 
-## Acerca de mí
-- 🎓 Carrera de la universidad terminada
-- 💼 Actualmente trabajo como [desarrollar aplicaciones administrativas para empresas que lo requierantés estudiando]
-- 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías.
+<p align="center">
+  🚀 Apasionado por crear soluciones digitales eficientes que optimicen procesos y mejoren la experiencia de los usuarios.  
+</p>
 
-- ## Mis habilidades
-- 💻 [Desarollo Android nativo, Desarrollo mobile Multiplatform]
-- 🚀 [Autodidacta]
+---
 
-  ## Proyectos destacados
-  Aquí algunos de mis proyectos más destacados.
+## 👨‍💻 Acerca de mí 
+- 💼 Experiencia desarrollando **aplicaciones móviles empresariales** para gestión, productividad y soporte técnico.  
+- 🌱 Siempre en constante aprendizaje: Kotlin, Jetpack Compose, Flutter, Firebase, AI y más.  
+- 🤝 Actualmente busco oportunidades como **freelancer** para colaborar en proyectos que generen impacto real.  
 
-  ## 1. Aplicación de Reserva de Almuerzos Empresariales [ComedorGS](https://play.google.com/store/apps/details?id=yosel.dev.comedorgs&pli=1)
-  Esta aplicación está diseñada para simplificar el proceso de reserva de almuerzos para los empleados de una empresa, aplicando automáticamente los descuentos     correspondientes a través de la nómina del empleado. Con una interfaz intuitiva, los trabajadores pueden programar sus almuerzos de manera conveniente, aprovechando los   beneficios ofrecidos por la empresa.
+---
 
-  <p align="left"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/kotlin.png" alt="kotlin" width="40" height="40"/> </a> <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/v870e399c64f7c43c99a3043db4b3a74327bb93d0914e84a0c3dba90bbfd67625/firebase/images/touchicon-180.png" alt="Jetpack compose" width="40" height="40"/> </a> </p>
-
-  ## 2. Aplicación de Gestión de Incidentes Geográficos [SeraphineGS](https://play.google.com/store/apps/details?id=yos.dev.seraphine)
-  Nuestra aplicación de control de incidentes geográficos proporciona una solución integral para gestionar y resolver incidentes dentro de una empresa con múltiples ubicaciones. Integrando funciones como la cámara para documentación visual, la geolocalización para identificar la ubicación precisa y un sistema de seguimiento de tickets, permite una respuesta rápida y eficiente a cualquier problema que surja en diferentes lugares.
-
-  <p align="left"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/kotlin.png" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.android.com/compose" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/62a703025f809d8c7a7445b294cc67b86dd72e3f4f79d730501c5b3fb709a5dc/68747470733a2f2f7461627269732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30362f6a65747061636b2d636f6d706f73652d69636f6e5f5247422e706e67" alt="Jetpack compose" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://seekvectors.com/files/download/793dcdd95d7c995007d8fb0926824c47.png" alt="flutter" width="40" height="40"/> </a> </p>
-
-  ## 3. Aplicación de Autoservicio Administrativo [GestorGS](https://play.google.com/store/apps/details?id=yosel.dev.gestorgs)
-  Facilitando la realización de tareas administrativas, esta aplicación de autoservicio permite a los empleados de una empresa gestionar diversos aspectos como solicitudes de vacaciones, registro de asistencia, entre otros. Con una interfaz amigable y accesible, los usuarios pueden realizar estas gestiones de forma rápida y sin necesidad de intervención del personal administrativo.
-
-  <p align="left"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/kotlin.png" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.android.com/compose" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/62a703025f809d8c7a7445b294cc67b86dd72e3f4f79d730501c5b3fb709a5dc/68747470733a2f2f7461627269732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30362f6a65747061636b2d636f6d706f73652d69636f6e5f5247422e706e67" alt="Jetpack compose" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://seekvectors.com/files/download/793dcdd95d7c995007d8fb0926824c47.png" alt="flutter" width="40" height="40"/> </a> </p>
-
-  ## 4. Herramienta de Gestión de Incidentes en Flutter
-  Este proyecto desarrollado en Flutter proporciona una aplicación de escritorio para facilitar el trabajo de los ingenieros de soporte de sistemas, permitiendo un mayor control sobre los incidentes reportados. Con funcionalidades específicas adaptadas a las necesidades del equipo, como seguimiento de tickets, asignación de tareas y generación de informes, esta herramienta mejora la eficiencia y la organización en el manejo de incidencias.
-
-  <p align="left">  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://seekvectors.com/files/download/793dcdd95d7c995007d8fb0926824c47.png" alt="flutter" width="40" height="40"/> </a> </p>
+## 🛠️ Habilidades Técnicas
 
 
+|  | |
+|------|------------|
+| <img src="https://developer.android.com/images/logos/android.svg" alt="Android" height="30"/> | **Android Nativo** |
+| <img src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin" height="30"/> | **Kotlin** |
+| <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" alt="Jetpack Compose" height="30"/> | **Jetpack Compose** |
+| <img src="https://exomindset.co/wp-content/uploads/2025/02/Group-707.png" alt="Kotlin" height="30"/> | **Kotlin multiplatform** |
+| <img src="https://svgicons.com/api/ogimage/?id=110697&n=compose-multiplatform" alt="Kotlin" height="30"/> | **Compose multiplatform** |
+| <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="30"/> | **Flutter** |
+| <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" height="30"/> | **Dart** |
+| <img src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck-512x646.png" alt="Firebase" height="30"/> | **Firebase (Firestore, Auth, Remote Config, Crashlytics)** |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="30"/> | **Git / GitHub** |
+| <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Git" height="30"/> | **Postman** |
 
-  ## Proyectos personales
 
-  ## 1. Proyecto de Creación de Contenido Pedagógico con Inteligencia Artificial [EducativaIA]
-  Este proyecto personal fusiona la potencia de la Inteligencia Artificial de Google GEMINI con una aplicación nativa para Android, destinada a la creación de contenido pedagógico. Diseñada especialmente para docentes y cualquier persona interesada en impartir enseñanzas sobre un tema específico, esta aplicación redefine la forma en que se presenta y comparte el conocimiento.
+---
 
-  <p align="left"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/kotlin.png" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.android.com/compose" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/62a703025f809d8c7a7445b294cc67b86dd72e3f4f79d730501c5b3fb709a5dc/68747470733a2f2f7461627269732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30362f6a65747061636b2d636f6d706f73652d69636f6e5f5247422e706e67" alt="Jetpack compose" width="40" height="40"/> </a> </p>
-  
+## 🚀 Proyectos Destacados  
+*(Todos estos proyectos están publicados en la **Google Play Store** y yo me encargué de subirlos. Fueron desarrollados para una empresa del sector bancario, por lo que el acceso completo es privado.)*
+
+### [ComedorGS](https://play.google.com/store/apps/details?id=yosel.dev.comedorgs&pli=1) <a href="https://play.google.com/store/apps/details?id=yosel.dev.comedorgs&pli=1"><img src="https://cdn-icons-png.flaticon.com/512/732/732208.png" alt="Google Play" height="20"/></a>  
+Aplicación empresarial para **reservar almuerzos** con integración en nómina.  
+✔️ Interfaz intuitiva | ✔️ Descuentos automáticos | ✔️ Ahorro de tiempo.  
 
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+### [SeraphineGS](https://play.google.com/store/apps/details?id=yos.dev.seraphine) <a href="https://play.google.com/store/apps/details?id=yos.dev.seraphine"><img src="https://cdn-icons-png.flaticon.com/512/732/732208.png" alt="Google Play" height="20"/></a>  
+Gestión de incidentes geográficos con cámara, geolocalización y sistema de tickets.  
+✔️ Respuesta rápida | ✔️ Control en múltiples sedes | ✔️ Flujo eficiente.  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosel17&show_icons=true&locale=en&layout=compact" alt="yosel17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yosel17&" alt="yosel17" /></p>
+### [GestorGS](https://play.google.com/store/apps/details?id=yosel.dev.gestorgs) <a href="https://play.google.com/store/apps/details?id=yosel.dev.gestorgs"><img src="https://cdn-icons-png.flaticon.com/512/732/732208.png" alt="Google Play" height="20"/></a>  
+Autoservicio administrativo: vacaciones, asistencia y más.  
+✔️ Interfaz amigable | ✔️ Reducción de trámites | ✔️ Productividad.  
+
+
+### Proyecto Flutter – **Gestión de Incidentes (Desktop)**  
+Aplicación de escritorio en **Flutter** para ingenieros de soporte.  
+✔️ Seguimiento de tickets | ✔️ Asignación de tareas | ✔️ Reportes automáticos.  
+Además, permite gestionar la carga de trabajo del equipo, centralizar la comunicación y dar mayor trazabilidad a los problemas reportados.   
+
+---
+
+## 🌟 Proyectos Personales
+
+### **EducativaIA** 📚🤖  
+App Android con **Inteligencia Artificial (Google Gemini)** para crear contenido pedagógico.  
+✔️ Apoyo a docentes en Guatemala | ✔️ Hojas de trabajo | ✔️ Innovación educativa.  
+
+### **Wild Rift – Estadística** 🎮📊  
+Proyecto personal para jugadores de **League of Legends: Wild Rift**.  
+✔️ Permite comparar estadísticas de campeones.  
+✔️ Simulación de diferentes **builds** para ver cuál genera más daño.  
+✔️ Herramienta para que los jugadores mejoren su estrategia en partidas clasificatorias.
+✔️ Integracion de IA(Gemini 2.5) para analizar las estadisticas.
+
+---
+
+## 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yosel17&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosel17&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yosel17&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+
+---
+
+## 📫 Contáctame
+<p align="left">
+  <a href="mailto:yosel11517@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="30"/> Email</a>  
+  <br/>
+  <a href="https://www.linkedin.com/in/yosel-alvizures-3a552a114"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="30"/> LinkedIn</a>  
+</p>
+
+---
+
+✨ *Si quieres colaborar en un proyecto o necesitas un desarrollador freelance, no dudes en escribirme.*
